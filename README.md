@@ -6,7 +6,7 @@
 <p align="center">
 
 
-![Banners](https://user-images.githubusercontent.com/94861415/208010308-4048b9b3-0d35-42c5-9edc-e059bff20800.png)
+![Banners](https://cdn.discordapp.com/attachments/1053082517940469821/1053399631561769020/png.png)
 
 
 
