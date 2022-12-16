@@ -12,7 +12,7 @@
 
 <p align="center">
 
-[![Website Badge](https://img.shields.io/badge/Website-Navaro.me-blue?style=for-the-badge)](https://Navaro.me/)
+[![Website Badge](https://img.shields.io/badge/Website-Navaro.me-blue?style=for-the-badge)](https://Navaro.mee/)
   
 
 
