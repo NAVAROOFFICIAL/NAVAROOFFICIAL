@@ -83,8 +83,8 @@
 
 <h2 align="center">Discord Profile</h2><br>
   <p align="center">
-    <a href="https://discord.gg/MBTkVcJefp">
-        <img title="Fnoberz server discord" alt="Navaro's discord" src="https://discord.c99.nl/widget/theme-4/943374631644045363.png"/>
+    <a href="https://discord.gg/Navaro">
+        <img title="Fnoberz server discord" alt="Navaro's discord" src="https://discord.c99.nl/widget/theme-4/944758193173721128.png"/>
     </a>
 </p>
 
