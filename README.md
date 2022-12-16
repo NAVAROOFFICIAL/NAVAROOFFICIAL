@@ -66,7 +66,7 @@
 
 - 🛒 Product `PRIVATE CHEAT , SOURCE CODE , SPOOFER OTHER JOIN DISCORD`
 
-- 💬 Discord [Navaro#0001](https://discord.com/users/943374631644045363) | [Discord](https://discord.gg/MBTkVcJefp)
+- 💬 Discord [Navaro#0615](https://discord.com/users/943374631644045363) | [Discord](https://discord.gg/Navaro)
 
 
 </pre><br>
