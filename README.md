@@ -76,14 +76,13 @@
 <h2 align="center"</h2>
 
 <a target="_blank" href="https://discord.com/users/943374631644045363"><img alt="Discord" src="https://img.shields.io/badge/Discord%21-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white"/></a>
-[![YouTube Channel](https://img.shields.io/badge/-YouTube-%23282a36?style=for-the-badge&logoColor=ff0000&logo=YouTube)](https://www.youtube.com/channel/UCH4kNKY-dRlMu7UX1TyHcRw)
 <a target="_blank" href="https://twitter.com/Navaro"><img alt="Twitter" src="https://img.shields.io/badge/@Navaro-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/></a>
 
 
 <h2 align="center">Discord Profile</h2><br>
   <p align="center">
     <a href="https://discord.gg/Navaro">
-        <img title="Fnoberz server discord" alt="Navaro's discord" src="https://discord.c99.nl/widget/theme-4/944758193173721128.png"/>
+        <img title="Navaro server discord" alt="Navaro's discord" src="https://discord.c99.nl/widget/theme-4/944758193173721128.png"/>
     </a>
 </p>
 
